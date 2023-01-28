@@ -11,3 +11,8 @@
 
 
 ## DataScience-Python:
+
+| **Content** | **Github** | **Substack** |
+| --- | --- | --- |
+||[🔗]|[🔗]|
+
