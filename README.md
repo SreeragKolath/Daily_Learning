@@ -14,5 +14,5 @@
 
 | **Content** | **Github** | **Substack** |
 | --- | --- | --- |
-|Polyfuzz|[🔗](https://github.com/SreeragKolath/Daily_Learning/tree/main/Polyfuzz)|[🔗]|
+|Polyfuzz|[🔗](https://github.com/SreeragKolath/Daily_Learning/tree/main/Polyfuzz)|[🔗](https://sreerag.substack.com/p/polyfuzz)|
 
