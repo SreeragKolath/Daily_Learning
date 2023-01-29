@@ -9,6 +9,6 @@ Currently, methods include a variety of edit distance measures, a character-base
 
 **You can install Polyfuzz via pip**
 
-pip install polyfuzz
+  !pip install polyfuzz
 
 
