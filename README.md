@@ -1,6 +1,6 @@
 # Daily_Learning
 
-## Daily Learning:
+
 
 | **Content** | **Github** | **Substack** |
 | --- | --- | --- |
