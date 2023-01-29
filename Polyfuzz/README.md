@@ -1,4 +1,4 @@
-##PolyFuzz
+## PolyFuzz
 
 PolyFuzz performs fuzzy string matching, string grouping, and contains extensive evaluation functions. PolyFuzz is meant to bring fuzzy string matching techniques together within a single framework.
 
