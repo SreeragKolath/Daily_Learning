@@ -11,7 +11,4 @@ Currently, methods include a variety of edit distance measures, a character-base
 
   !pip install polyfuzz
 
-
-
-
 <img width="637" alt="test1" src="https://user-images.githubusercontent.com/31788971/215301668-ec8d25af-e63c-4a2d-8111-61a711be3343.png">
